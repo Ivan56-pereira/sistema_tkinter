@@ -40,6 +40,6 @@ Contribuições são bem-vindas! Se você encontrar problemas ou tiver sugestõe
 
 ## <span style="color:green">Licença</span>
 
-Este projeto é licenciado sob [Nome da Licença]. Consulte o arquivo LICENSE para obter detalhes.
+
 
  
